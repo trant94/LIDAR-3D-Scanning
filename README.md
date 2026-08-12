@@ -4,7 +4,7 @@ LIDAR is a mapping system that is built on the Cortex-M4 microcontroller, time-o
 VL53L1X ToF Sensor ->  I2C -> TM4C1294 Microcontroller ->   Distance Data ->    UART ->   MATLAB -> Coordinate Conversion -> 3D Point Cloud
  ## Technologies 
   ### Hardware 
--TM4C1294 microcontroller
+- TM4C1294 microcontroller
 - VL53L1X Time-of-Flight distance sensor
 - Scanning/rotation mechanism
  ### Software
